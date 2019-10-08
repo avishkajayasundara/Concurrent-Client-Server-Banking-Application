@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goliath National Bank", "Goliath National Bank\Goliath National Bank.csproj", "{7BB00357-B3BB-4A1C-8F54-CE3AD1570A43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BB00357-B3BB-4A1C-8F54-CE3AD1570A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB00357-B3BB-4A1C-8F54-CE3AD1570A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB00357-B3BB-4A1C-8F54-CE3AD1570A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB00357-B3BB-4A1C-8F54-CE3AD1570A43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A7BA903-953C-4C32-A9DF-32CE5E32A22E}
+	EndGlobalSection
+EndGlobal

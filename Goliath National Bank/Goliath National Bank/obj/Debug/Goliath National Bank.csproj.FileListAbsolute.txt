@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Goliath National Bank\Goliath National Bank\bin\Debug\Goliath National Bank.exe.config
+C:\Users\User\Desktop\Goliath National Bank\Goliath National Bank\bin\Debug\Goliath National Bank.exe
+C:\Users\User\Desktop\Goliath National Bank\Goliath National Bank\bin\Debug\Goliath National Bank.pdb
+C:\Users\User\Desktop\Goliath National Bank\Goliath National Bank\obj\Debug\Goliath National Bank.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Goliath National Bank\Goliath National Bank\obj\Debug\Goliath National Bank.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Goliath National Bank\Goliath National Bank\obj\Debug\Goliath National Bank.exe
+C:\Users\User\Desktop\Goliath National Bank\Goliath National Bank\obj\Debug\Goliath National Bank.pdb
+C:\Users\User\Desktop\CNA Assignment\Program\Goliath National Bank\Goliath National Bank\bin\Debug\Goliath National Bank.exe.config
+C:\Users\User\Desktop\CNA Assignment\Program\Goliath National Bank\Goliath National Bank\bin\Debug\Goliath National Bank.exe
+C:\Users\User\Desktop\CNA Assignment\Program\Goliath National Bank\Goliath National Bank\bin\Debug\Goliath National Bank.pdb
+C:\Users\User\Desktop\CNA Assignment\Program\Goliath National Bank\Goliath National Bank\obj\Debug\Goliath National Bank.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CNA Assignment\Program\Goliath National Bank\Goliath National Bank\obj\Debug\Goliath National Bank.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CNA Assignment\Program\Goliath National Bank\Goliath National Bank\obj\Debug\Goliath National Bank.exe
+C:\Users\User\Desktop\CNA Assignment\Program\Goliath National Bank\Goliath National Bank\obj\Debug\Goliath National Bank.pdb
